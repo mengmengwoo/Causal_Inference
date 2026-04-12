@@ -1,0 +1,6 @@
+Open anaconda_prompt
+cd Documents\Causal_Inference
+
+git add .
+git commit -m "testing.ipynb"
+git push origin main
