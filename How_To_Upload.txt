@@ -1,0 +1,4 @@
+cd Documents\Causal_Inference
+git add Data_Exploration.ipynb
+git commit -m "Data_Exploration.ipynb"
+git push origin main

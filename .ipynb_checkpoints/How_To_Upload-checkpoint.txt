@@ -1,0 +1,4 @@
+cd Documents\Causal_Inference
+git add .
+git commit -m "Remove large data file and push code"
+git push origin main
